@@ -25,6 +25,7 @@ But most of the time it's something to do with math and engineering, and usually
 - English (Native)
 - Polish (Native)
 - German (Basic Independent User)
+- French (Novice)
 
 <!---
 sds108/sds108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
